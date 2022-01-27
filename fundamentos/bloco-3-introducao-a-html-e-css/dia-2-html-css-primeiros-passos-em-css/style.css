@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">
-    <title>CSS Básico</title>
-    <style>
       h1 {
         width: 65px;
         color: orange;
@@ -38,16 +32,3 @@
       #Marrom{
         background: border-box;
       }
-
-    </style>
-  </head>
-  <body>
-    <h1>Exercícios 3.2</h1>
-    <p class="cor-de-fundo">Qual é a sua cor favorita?</p>
-    <ul class="cor-de-fundo">
-      <li id="Amarelo">Amarelo</li>
-      <li id="Vermelho">Vermelho</li>
-      <li id="Marrom">Marrom</li>
-    </ul>
-  </body>
-</html>
