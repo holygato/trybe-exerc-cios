@@ -1,9 +1,9 @@
 .super-mario {
-  width: 200px;
+  width: 2px;
 }
 
 .goomba {
-  width: 100px;
+  width: 10px;
 }
 
 .baloon {
@@ -15,5 +15,5 @@
 }
 
 .bowser {
-  width: 200px;
+  width: 20px;
 }
