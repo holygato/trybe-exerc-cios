@@ -27,14 +27,34 @@ li {
     font-size: 20px;
 }
 
-ul li:nth-child(1){
-    color:blue;
+li:not(:nth-child(n + 4)) {
+    color: blue;
 }
 
-ul li:nth-child(2){
-    color:blue;
+.java {
+    background-color: pink;
 }
 
-ul li:nth-child(3){
-    color:blue;
+ul li a:hover{
+    font-weight: bold;
+}
+
+ul li a[href*="stackoverflow"]{
+    color: orange;
+}
+  
+ul li a[href*="w3schools"] {
+    color: green;
+}
+  
+ul li a[href*="mozilla"] {
+    color: black;
+}
+  
+ul li a[href*="devdocs"] {
+    color: yellow;
+}
+  
+ul li a[href*="trybe"] {
+    color: green;
 }
