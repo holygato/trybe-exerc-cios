@@ -1,0 +1,26 @@
+h1, p{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+  }
+
+li:hover{
+    background-color: chartreuse;
+}
+
+li:active{
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+}
+
+a:active{
+    font-family: inherit;
+    color: white;   
+}
+
+ul, ol{
+    list-style: none;
+}
