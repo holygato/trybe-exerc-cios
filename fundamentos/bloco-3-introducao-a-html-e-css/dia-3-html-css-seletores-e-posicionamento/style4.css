@@ -23,11 +23,11 @@ div:nth-of-type(5) {
     color: lightblue; 
 }
 
-h3:nth-child(1n){
+h3:nth-of-type(1n){
     font-style: italic;
 }
 
-h3:nth-child(2){
+h3:nth-of-type(2){
     font-style: italic;
 }
 
