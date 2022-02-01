@@ -1,0 +1,25 @@
+.posição{
+    text-align: center;
+}
+
+.navegação li{
+    display: inline-block;
+    margin-left: 20px;
+    width: 100px;
+}
+
+#imagem1{
+    top: 10px;
+    left: 30px;
+    width: 500px;
+    height: 200px;
+}
+
+#título1{
+    top: 40px;
+    left: 30px;
+}
+
+.itálico{
+    font-style: italic;
+}
