@@ -9,18 +9,17 @@
 }
 
 #imagem1{
-    /position: absolute;
     top: 10px;
     left: 30px;
     width: 500px;
     height: 200px;
-    /z-index: 1;
 }
 
 #título1{
-    /position: absolute;
-    text-align: center;
     top: 40px;
     left: 30px;
-    /z-index: 2;
+}
+
+.itálico{
+    font-style: italic;
 }
