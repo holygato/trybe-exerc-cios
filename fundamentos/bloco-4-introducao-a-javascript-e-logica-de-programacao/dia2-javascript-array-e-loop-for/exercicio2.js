@@ -50,7 +50,7 @@ if (valorImpar == 0){
     console.log(valorImpar);
 } */
 
-let menorValor = numbers[0];
+/* let menorValor = numbers[0];
 
 for (let i = 0; i < numbers.length; i += 1){
     if (numbers[i] < menorValor){
@@ -58,4 +58,16 @@ for (let i = 0; i < numbers.length; i += 1){
     }
 }
 
-console.log(menorValor);
+console.log(menorValor); */
+
+let array2 = [];
+
+for (let i = 0; i < 26; i += 1){
+    array2.push(i)
+}
+
+/* console.log(array2); */
+
+for (let i = 0; i < array2.length; i += 1){
+    console.log(array2[i] / 2);
+}
