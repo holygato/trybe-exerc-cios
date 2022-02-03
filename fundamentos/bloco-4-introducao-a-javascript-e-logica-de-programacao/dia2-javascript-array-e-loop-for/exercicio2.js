@@ -62,7 +62,7 @@ console.log(menorValor); */
 
 let array2 = [];
 
-for (let i = 0; i < 26; i += 1){
+for (let i = 1; i < 26; i += 1){
     array2.push(i)
 }
 
