@@ -1,4 +1,5 @@
 // loginValidation.test.js
+//teste
 const {
     greetingMessage,
     loginErrorMessage,
